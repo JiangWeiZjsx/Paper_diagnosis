@@ -1,9 +1,12 @@
 # Paper_diagnosis
+================================================================================
 This code is provided for educational and academic purposes only. \
-It is no longer maintained and will not receive further updates. \
-Use at your own risk. Validation is required before practical application.
+Please validate before practical use, as this code is not updated regularly.
 
-===========================
+此代码仅供教育和学术用途。\
+鉴于代码不会及时更新，在实际应用前请务必进行验证。
+
+================================================================================
 
 The specific contents are listed below:
 
